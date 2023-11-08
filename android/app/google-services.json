@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743504633090",
+    "project_id": "bodyshop-571c8",
+    "storage_bucket": "bodyshop-571c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743504633090:android:ee1e9123c5fd0e31ed761b",
+        "android_client_info": {
+          "package_name": "com.example.bodyshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_LXBzhHd4snmPTz-9VU3b1asfB_LarY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
